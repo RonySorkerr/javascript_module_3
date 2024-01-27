@@ -3,4 +3,5 @@ let sName = ['farzana', 'jannatul', 'sumaiya'];
 // concatanating
 console.log(name);
 console.log(sName);
-let result = name.concat(sName);
+const children = name.concat(sName);
+console.log(children);
